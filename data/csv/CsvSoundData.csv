@@ -1,0 +1,5 @@
+ID,TYPE,ファイル名,VOL,メモ　この行は読み捨て
+bgmTest,BGM,data/sound/bgmTest.mp3,1,
+decide,SE,data/sound/decide.mp3,0.75,メモを残したら当然csvデータに含まれる
+cancel,SE,data/sound/cancel.mp3,0.75,
+attack,SE,data/sound/attack.mp3,0.75,
